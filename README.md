@@ -1,2 +1,1 @@
-# Web
-This is my first web development project
+This is my first web development projet
